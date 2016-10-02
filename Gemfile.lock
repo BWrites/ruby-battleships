@@ -1,0 +1,16 @@
+GEM
+  remote: http://rubygems.org/
+  specs:
+    colorize (0.7.3)
+    text-table (1.2.3)
+
+PLATFORMS
+  ruby
+  x64-mingw32
+
+DEPENDENCIES
+  colorize
+  text-table
+
+BUNDLED WITH
+   1.11.2
