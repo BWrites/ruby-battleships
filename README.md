@@ -2,6 +2,7 @@
 
 GIT repository
 
+https://github.com/BWrites/ruby-battleships
 
 
 Instructions for use:
